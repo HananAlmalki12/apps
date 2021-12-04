@@ -1,0 +1,75 @@
+.div {
+    border: 5px #6bc ridge  ;
+    border-radius: 10px;
+    margin: 0px 20px 20px 20px;
+    padding-top: 12px;
+    width: 700px;
+    box-shadow: -10px 10px 10px silver;
+    background-color: #689;
+    margin-left: 10px;
+    font-size: 11px;
+    color: white;
+}
+#h1, #display1 { 
+    border: 3px inset;
+    margin-bottom: 5px; 
+    width: 260px; 
+    height: 50px; 
+    padding: 2px;
+    padding-top: 4px; 
+    background-color:powderblue;     /*style text*/
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: right;
+    overflow: hidden;
+    color: #245;
+    margin-left: 6px;
+    text-shadow: 2px 2px 1px #8ac;
+}
+#c {
+    height: 101px;
+    color: #7f7;
+}
+button:active{
+    background-color: #dbc;
+    box-shadow: none ;
+    padding-top: 4px;                    /*style button*/
+    outline: 1px solid #989;
+    border: 3px #b9b inset;
+}
+button {
+    width: 50px; 
+    height: 50px; 
+    font-size: 22px;
+    background-color: rgba(142, 91, 155, 0.5);
+    color: #fee;
+    border: 2px #b9b outset;
+    border-radius: 5px;
+    margin-left: 2px;
+    outline: none;
+    cursor: pointer;
+}
+.top{                                                            /*style button red*/
+    background-color: #bab;   
+    box-shadow: inset 5px 5px 5px #cab, inset -5px -5px 5px #a98;
+}
+.History {
+    border: 3px inset;
+    margin-bottom: 5px; 
+    margin-top: 50px;
+    width: 260px; 
+    height: 260px; 
+    padding: 2px;
+    padding-top: 4px; 
+    background-color:powderblue;     /*style  History text*/
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: right;
+    overflow: hidden;
+    color: #245;
+    margin-left: 425px;
+    text-shadow: 2px 2px 1px #8ac;
+
+}
